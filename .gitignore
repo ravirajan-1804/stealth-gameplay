@@ -1,0 +1,21 @@
+# Unreal Engine generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+*.sdf
+
+# Third-party asset packs (Paragon, Fab / Marketplace).
+# Not redistributable in a public repo - see README.md for the list to install.
+Content/Paragon*/
+Content/Free_Magic/
+Content/Mixed_Magic_VFX_Pack/
+Content/CombatMagicAnims/
+Content/Vefects/
+Content/_SplineVFX/
